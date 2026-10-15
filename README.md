@@ -2,7 +2,7 @@
 
 A modern, high-fidelity **Spotify-styled** web music streaming and offline audio player built with **HTML5, Vanilla CSS, JavaScript, Web Audio API, and IndexedDB Database**.
 
-🌐 **Live URL**: [https://chaithanya-2127.github.io/Audio-Streamer-Hub-/](https://chaithanya-2127.github.io/Audio-Streamer-Hub-/)  
+🌐 **Live URL**: [https://shahanaz-1219.github.io/Audio-Streamer-Hub./](https://chaithanya-2127.github.io/Audio-Streamer-Hub-/)  
 ⚡ **Demo Account (Instant 1-Click Login)**: `demo@hub.com` | `password123`
 
 ---
